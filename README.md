@@ -10,6 +10,8 @@ This CLI application provides date formatting tokens for some of the
 most commonly used libraries/packages/languages in your terminal. 
 ```
 
+<img src="https://github.com/glennforrest/cli-date-formats/blob/main/assets/date-formats%20example%20output.png" />
+
 ---
 
 The following languages/packages are currently supported:
