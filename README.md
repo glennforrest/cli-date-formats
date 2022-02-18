@@ -6,7 +6,8 @@
 | |__| | (_| | ||  __/      | || (_) | |  | | | | | | (_| | |_\__ \
 |_____/ \__,_|\__\___|      |_| \___/|_|  |_| |_| |_|\__,_|\__|___/
 
-This CLI application provides date formatting tokens for some of the most commonly used libraries/packages/languages in your terminal. 
+This CLI application provides date formatting tokens for some of the
+most commonly used libraries/packages/languages in your terminal. 
 ```
 
 ---
