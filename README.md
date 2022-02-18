@@ -18,6 +18,39 @@ The following languages/packages are currently supported:
 * [momentjs](https://momentjs.com/docs/#/displaying/)
 <!-- todo - put a screenshot of how it looks in here -->
 
+
+## Installation
+`composer global require glennforrest/cli-date-formats`
+
+### Command Options
+```bash
+date-formats
+
+Description:
+  Display date formats for a given language or package
+
+Usage:
+  date-formats [options] [--] [<vendor>]
+
+Arguments:
+  vendor                The language or package to show date formats for
+
+Options:
+      --compact         Show only the date formats
+  -h, --help            Display help for the given command. When no command is given display help for the date-formats command
+  -q, --quiet           Do not output any message
+  -V, --version         Display this application version
+      --ansi|--no-ansi  Force (or disable --no-ansi) ANSI output
+  -n, --no-interaction  Do not ask any interactive question
+      --env[=ENV]       The environment the command should run under
+  -v|vv|vvv, --verbose  Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug
+```
+
+#### Example
+
+```bash
+date-formats php
+```
 ---
 
 Notice anything not working? Feel free to open up an issue [here](https://github.com/glennforrest/cli-date-formats/issues/new)
