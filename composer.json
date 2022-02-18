@@ -17,12 +17,12 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/view": "^9.0",
+        "illuminate/view": "9.0",
         "laminas/laminas-text": "^2.8",
         "nunomaduro/termwind": "^1.4"
     },
     "require-dev": {
-        "laravel-zero/framework": "^9.0",
+        "laravel-zero/framework": "9.0",
         "mockery/mockery": "^1.4.3",
         "pestphp/pest": "^1.3"
     },
